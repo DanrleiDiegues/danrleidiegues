@@ -1,9 +1,22 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I am Electrical Engineer graduated from the Federal University of Juiz de Fora.
 
-- Stacks: ![image](https://github.com/user-attachments/assets/44e7c941-b8df-420f-a9dd-00a509f23333)
+- 🔭 I’m currently working on Data Science and Machine Learning projects and I’m currently learning how to build Agent Solutions to streamline processes.
+
+#### ⚡Stacks
+
+###### Programming Languages
+Python / SQL / HTML / CSS / JavaScript
+###### Libraries and Frameworks
+Scikit-learn / Scipy / Pandas / Matplotlib / Seaborn / Numpy / SciPy / PySpark / TensorFlow / Pytorch / Transformers / MLFlow / PyMC / Fast API / MLFlow / PySpark / Django
+###### Tools & Cloud
+GCP / VertexAI / SageMaker / Azuri Services / AWS / Looker / Streamlit / Excel / PowerBI / Tableau
+###### DataBases
+PostgreSQL / SQLite / Pinecone / ChromaDB
+###### Field Knowledge
+Statistics, Algebra, Calculus, ETL, Feature Engineering, and related.
+
 
 
 
