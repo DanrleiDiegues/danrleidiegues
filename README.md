@@ -8,10 +8,8 @@ I am Electrical Engineer graduated from the Federal University of Juiz de Fora. 
 Python / C / SQL / HTML / CSS / JavaScript
 ###### Libraries and Frameworks
 Scikit-learn / Scipy / Pandas / Matplotlib / Seaborn / Numpy / SciPy / PySpark / TensorFlow / Pytorch / Transformers / MLFlow / PyMC / Fast API / MLFlow / PySpark / Django
-###### Tools & Cloud
-GCP / VertexAI / SageMaker / Azuri Services / AWS / Looker / Streamlit / Excel / PowerBI / Tableau
-###### DataBases
-PostgreSQL / SQLite / Pinecone / ChromaDB
+###### Cloud & Tools & DataBases
+GCP / VertexAI / SageMaker / Azuri Services / AWS / Looker / Streamlit / Excel / PowerBI / Tableau / PostgreSQL / MySQL / SQLite / Pinecone / ChromaDB
 ###### Field Knowledge
 Statistics, Algebra, Calculus, ETL, Feature Engineering, and related.
 
