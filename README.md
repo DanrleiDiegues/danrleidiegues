@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-- Stacks:
-- ![image](https://github.com/user-attachments/assets/443c67ed-1f59-4d3d-8fd1-93b497684ade)
+- Stacks: ![image](https://github.com/user-attachments/assets/44e7c941-b8df-420f-a9dd-00a509f23333)
+
 
 
 <!--
