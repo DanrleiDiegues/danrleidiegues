@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Electrical Engineer graduated from the Federal University of Juiz de Fora. 🔭 I’m currently working on Data Science and Machine Learning projects and I’m currently learning how to build Agent Solutions to streamline processes.
+I am Electrical Engineer graduated from the Federal University of Juiz de Fora. 🔭 I’m currently working on Data Science, Machine Learning projects and learning how to build Agent Solutions to streamline processes.
 
 #### ⚡Stacks
 
