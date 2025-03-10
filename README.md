@@ -7,7 +7,7 @@ I am Electrical Engineer graduated from the Federal University of Juiz de Fora.
 #### ⚡Stacks
 
 ###### Programming Languages
-Python / SQL / HTML / CSS / JavaScript
+Python / C / SQL / HTML / CSS / JavaScript
 ###### Libraries and Frameworks
 Scikit-learn / Scipy / Pandas / Matplotlib / Seaborn / Numpy / SciPy / PySpark / TensorFlow / Pytorch / Transformers / MLFlow / PyMC / Fast API / MLFlow / PySpark / Django
 ###### Tools & Cloud
