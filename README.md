@@ -2,8 +2,9 @@
 Electrical Engineer from the Federal University of Juiz de Fora and MSc Candidate in Computational Modeling for Engineering, with focus on optimization, power systems, and computational methods for energy modeling.
 Additionally, I’m currently working also on Data Science and AI Agent Solutions for Merck Life Science.
 
-###### Field Knowledge
+#### Field Knowledge
 Linear Algebra • Multivariable Calculus • Optimization Methods • Complex Systems • Physics Applied for Energy Systems • Probability & Statistics
+
 ###### Programming Languages
 Python / C / SQL / PySpark / HTML / CSS / JavaScript
 ###### Libraries and Frameworks
