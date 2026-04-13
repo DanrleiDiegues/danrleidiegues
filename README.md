@@ -8,9 +8,9 @@ Linear Algebra • Multivariable Calculus • Optimization Methods • Complex S
 ###### Programming Languages
 Python / C / SQL / PySpark / HTML / CSS / JavaScript
 ###### Libraries and Frameworks
-Scikit-learn / Scipy / Pandas / Matplotlib / Seaborn / Numpy / SciPy / PySpark / TensorFlow / Pytorch / Transformers / MLFlow / PyMC / Fast API / MLFlow / PySpark / Django
+Scikit-learn / SciPy / Pandas  / Numpy / Matplotlib / Seaborn / PySpark / TensorFlow / Pytorch / Transformers / MLFlow / PyMC / Fast API / MLFlow / PySpark / Django
 ###### Cloud & Tools & DataBases
-GCP / VertexAI / SageMaker / Azuri Services / AWS / Looker / Streamlit / Excel / PowerBI / Tableau / PostgreSQL / MySQL / SQLite / Pinecone / ChromaDB
+Palantir Foundry / GCP / VertexAI / Looker / Streamlit / Excel / Tableau / PostgreSQL / MySQL / SQLite / Pinecone / ChromaDB
 
 
 <!--
