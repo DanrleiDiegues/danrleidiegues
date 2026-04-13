@@ -1,4 +1,4 @@
-## Hi there,
+## Hi there!
 Electrical Engineer from the Federal University of Juiz de Fora and MSc Candidate in Computational Modeling for Engineering, with focus on optimization, power systems, and computational methods for energy modeling.
 Additionally, I’m currently working also on Data Science and AI Agent Solutions for Merck Life Science.
 
