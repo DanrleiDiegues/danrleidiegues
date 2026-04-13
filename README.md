@@ -1,6 +1,6 @@
-## Hi there 👋
-
-I am Electrical Engineer graduated from the Federal University of Juiz de Fora. 🔭 I’m currently working on Data Engineering, Data Science, Machine Learning projects and learning how to build Agent Solutions to streamline processes.
+## Hi there,
+Electrical Engineer from the Federal University of Juiz de Fora and MSc Candidate in Computational Modeling for Engineering, with focus on optimization, power systems, and computational methods for energy modeling.
+Additionally, I’m currently working also on Data Science and AI Agent Solutions for Merck Life Science.
 
 #### ⚡Stacks
 
@@ -11,9 +11,7 @@ Scikit-learn / Scipy / Pandas / Matplotlib / Seaborn / Numpy / SciPy / PySpark /
 ###### Cloud & Tools & DataBases
 GCP / VertexAI / SageMaker / Azuri Services / AWS / Looker / Streamlit / Excel / PowerBI / Tableau / PostgreSQL / MySQL / SQLite / Pinecone / ChromaDB
 ###### Field Knowledge
-Statistics, Algebra, Calculus, ETL, Feature Engineering, and related.
-
-
+Algebra, Calculus, Optimization, and Statistics.
 
 
 <!--
